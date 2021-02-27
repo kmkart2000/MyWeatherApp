@@ -1,5 +1,7 @@
 body{
-    background: #29323C;
+    background-image:url(/img/26383.jpg );
+    background-repeat:no-repeat;
+    background-size :cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,11 +14,13 @@ body{
     width: 100%;
     max-width: 330px;
     min-height: 80vh;
-    background: linear-gradient(to top left, #36404b , #29323C 70% );
+    background: linear-gradient(to top left, #94d46e  , #29323C 50% );
+    opacity: 0.6;
     border-radius: 5px;
     box-shadow: 0 0 50px #202020;
     text-align: center;
     padding: 40px;
+    
 }
 
 /* ========== FORM ==========  */
