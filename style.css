@@ -1,5 +1,5 @@
 body{
-    background-image:url(/img/26383.jpg );
+    background-image:url("./img/26383.jpg");
     background-repeat:no-repeat;
     background-size :cover;
     display: flex;
